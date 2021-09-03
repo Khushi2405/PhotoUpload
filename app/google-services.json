@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058272154718",
+    "project_id": "photoupload-211f8",
+    "storage_bucket": "photoupload-211f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058272154718:android:e65f5a76dee68f4cf950cf",
+        "android_client_info": {
+          "package_name": "com.example.photoupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058272154718-j11kterjogi1tnmqucqvt289bkug0as5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUVvJ4zEaPhTQ76ZaNNHhoAz_ZQ3h2lqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058272154718-j11kterjogi1tnmqucqvt289bkug0as5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
